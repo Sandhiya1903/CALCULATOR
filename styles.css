@@ -1,0 +1,27 @@
+.title{
+    margin-bottom: 10px;
+    text-align: center;
+    width: 210px;
+    color: blue;
+    border: solid black 2px; 
+}
+input[type="button"]{
+    background-color: darkgray;
+    color: #000;
+    border: solid black 2px;
+    width: 100%;
+}
+input[type="text"]{
+    background-color:white ;
+    color: blue;
+    width: 100%;
+}
+.main{
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%) translateY(-50%);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
